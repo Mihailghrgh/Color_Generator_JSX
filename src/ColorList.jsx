@@ -1,4 +1,4 @@
-import SingleColor from "./SingleColor.JSX";
+import SingleColor from "./SingleColor";
 import { nanoid } from "nanoid";
 const ColorList = ({ colors, setColors }) => {
   return (
